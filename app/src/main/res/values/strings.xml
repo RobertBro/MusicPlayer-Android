@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="parent_folder">..</string>
+    <string name="files">Files</string>
+    <string name="player">Player</string>
+    <string name="icon_description">File icon</string>
+    <string name="plus_description">Plus</string>
+    <string name="back"><![CDATA[<]]></string>
+    <string name="rewind"><![CDATA[<<]]></string>
+    <string name="forward"><![CDATA[>>]]></string>
+    <string name="pause">||</string>
+    <string name="last"><![CDATA[|<]]></string>
+    <string name="backward"><![CDATA[|<]]></string>
+</resources>
